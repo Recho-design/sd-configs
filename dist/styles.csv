@@ -2,6 +2,7 @@
 Quality,"masterpiece, best quality","(lowres, worst quality, low quality, normal quality)"
 Default,"masterpiece, best quality","EasyNegative"
 MotionDesignV1,"light and shadow, motion design, C4D, rendering","(worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, bad_prompt, bad_prompt2, ((monochrome)), ((grayscale)), cropped, text, jpeg artifacts, signature, watermark, username, EasyNegative, sketch, cartoon, drawing, anime, duplicate, blurry, semi-realistic, out of frame, worst quality, ugly, low quality, deformed, multiple objetcs"
+DDicon,"best quality, many details,4k,blender,octane render,C4D,transparent glass texture,DDicon,blue|orange, frosted glass, transparent technology sense, industrial design,white background,studio lighting, sunshine,flat, minimal,quasi-object，axisymmetric，","lowers, bad anatomy, ((bad hands)), (worst quality:2), (low quality:2), (normal quality:2), paintings, sketches, lowres, bad anatomy, bad hands, text, error, missing fingers,"
 高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
 镜头虚化,"depth of field, blurry background, blurry foreground, ",
 画面增强,"high resolution illustration, colorful, 8k wallpaper, highres",
